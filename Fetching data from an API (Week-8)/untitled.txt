@@ -1,0 +1,10 @@
+Target columns for data frame:
+1. title
+2. overview
+3. release_date 
+4. vote_avg
+5. popularity
+
+Shape: (10000,7)
+
+Rapid API website for categorical data sets

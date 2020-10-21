@@ -1,0 +1,12 @@
+Target columns to fetch from:
+1. name
+2. region
+3. subregion
+4. population
+5. latlng
+6. area
+7. gini
+8. timezones
+9. numericCode
+10. number of languages
+11. regionalBlocs
